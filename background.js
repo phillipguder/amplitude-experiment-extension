@@ -1,0 +1,1 @@
+// Service worker da extensão. Não é necessário lógica aqui por enquanto. 
